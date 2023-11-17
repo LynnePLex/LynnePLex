@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web & Game Develpmoent
 - 🌱 I’m currently learning Python, GDScript, Javascript, & more
 - 💞️ I’m looking to collaborate on Game Projects
-- 📫 How to reach me -> lynneplex@gmail.com Discord: american horse pirate#4177
+- 📫 How to reach me -> lynneplex@gmail.com Discord: @lynneplex
 
 <!---
 LynnePLex/LynnePLex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
