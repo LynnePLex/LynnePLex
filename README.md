@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LynnePLex
-- 👀 I’m interested in Web & Game Develpmoent
-- 🌱 I’m currently learning Python, GDScript, Javascript, & more
+- 👀 I’m interested in Web & Game Development
+- 🌱 I’m currently learning Python, GDScript, & Blender.
 - 💞️ I’m looking to collaborate on Game Projects
 - 📫 How to reach me -> lynneplex@gmail.com Discord: @lynneplex
 
