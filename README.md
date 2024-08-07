@@ -3,7 +3,7 @@
 -  I’m  experience in Python, Javascript, & HTML/CSS
 -  I'm currently learning GDScript, 3D Art using Blender
 -  I’m looking to collaborate on Game Projects
--  How to reach me -> lynneplex@gmail.com Discord: @lynneplex
+-  How to reach me -> lynneplex@gmail.com
 
 <!---
 LynnePLex/LynnePLex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
